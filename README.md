@@ -16,7 +16,7 @@ I also like playing games in my free times.
 ```javascript
 const serkan = {
     pronouns: "He" | "Him",
-    code: ["C#", "Typescript", "JavaScript", "Python"],
+    code: ["C#", "TypeScript", "JavaScript", "Python"],
     askMeAbout: ["tech-stuff", "app-dev"],
     technologies: {
         frontEnd: ["ReactJS"],
