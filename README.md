@@ -24,7 +24,7 @@ const serkan = {
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["NoSQL", "SQL"],
     },
-    architecture: ["Serverless", "PWA", "SPA"],
+    architecture: ["Serverless", "MicroServices", "PWA", "SPA"],
     funFact: "Writing code is simple thing, but writing simple code is the hardest thing."
 };
 ```
