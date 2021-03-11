@@ -10,7 +10,7 @@ I also like playing games in my free times.
 
 <details>
 <summary>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me..</img>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me.. 👇</img>
 </summary>
 
 ```javascript
@@ -19,16 +19,16 @@ const serkan = {
     code: ["C#", "TypeScript", "JavaScript", "Python"],
     askMeAbout: ["tech-stuff", "app-dev"],
     technologies: {
-        frontEnd: ["ReactJS"],
-        backEnd: [".Net Core", "Node", "Python"],
+        frontEnd: ["ReactJS", "NextJS"],
+        backEnd: [".Net Core", ".Net 5", "Node", "Python"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["NoSQL", "SQL"],
     },
-    architecture: ["Serverless", "MicroServices", "PWA", "SPA"],
+    architecture: ["Serverless", "MicroServices"],
     funFact: "Writing code is simple thing, but writing simple code is the hardest thing."
 };
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> </em> 😊
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></em> 😊
 
 </details>
