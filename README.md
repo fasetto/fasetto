@@ -20,7 +20,7 @@ const serkan = {
     askMeAbout: ["tech-stuff", "app-dev"],
     technologies: {
         frontEnd: ["ReactJS", "NextJS"],
-        backEnd: [".Net Core", ".Net 5", "Node", "Python"],
+        backEnd: [".Net Core", "Node", "Python"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["NoSQL", "SQL"],
     },
