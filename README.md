@@ -21,7 +21,7 @@ const serkan = {
     technologies: {
         frontEnd: ["ReactJS", "NextJS"],
         backEnd: [".Net Core", "Node", "Python"],
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
         databases: ["NoSQL", "SQL"],
     },
     architecture: ["Serverless", "MicroServices"],
