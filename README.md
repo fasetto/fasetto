@@ -1,9 +1,9 @@
-<h2>I'm Serkan Bircan! 👋</h2>
+<h2>I'm Serkan Bircan!</h2>
 <img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="230">
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br> 
-Other then programming, I like cooking & eating. 🥗🥩🌮🍣 <br>
-I also like playing games in my free times.
+Other then programming, I like cooking & eating healthy foods. 🥗🥩🌮🍣 <br>
+I also like playing video games in my free times.
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/fasetto?label=Follow&style=social)
@@ -29,6 +29,6 @@ const serkan = {
 };
 ```
 
-<em>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em> 🙂
+<em>I love connecting with different people so if you want to say hi, I'll be happy to meet you!</em> 😇
 
 </details>
