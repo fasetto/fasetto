@@ -3,7 +3,8 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br> 
 Other then programming, I like cooking & eating healthy foods. 🥗🥩🌮🍣 <br>
-I also like playing video games in my free times.
+I also like playing video games in my free times. I love survival games. <br><br>
+Currently learning about game development using Unity Engine. My dream and current goal is to make an open-world surival game.
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/fasetto?label=Follow&style=social)
@@ -15,7 +16,6 @@ I also like playing video games in my free times.
 
 ```javascript
 const serkan = {
-    pronouns: "He" | "Him",
     code: ["C#", "TypeScript", "JavaScript", "Python"],
     askMeAbout: ["tech-stuff", "app-dev"],
     technologies: {
