@@ -1,4 +1,4 @@
-<h2>I'm Serkan Bircan!</h2>
+<h2>I'm Serkan!</h2>
 <img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="230">
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br> 
